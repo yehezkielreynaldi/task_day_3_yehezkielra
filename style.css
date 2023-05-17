@@ -153,9 +153,12 @@ table .download-cv:hover {
     margin-left: 20px;
 }
 
-.material-symbols-outlined {
-    margin-left: 7px;
 
+table #icon-download {
+    margin-top: -10px;
+    margin-left: 7px;
+    position: relative;
+    top: 5px;
 }
 
 .social-media {
