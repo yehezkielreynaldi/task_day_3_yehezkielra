@@ -138,6 +138,16 @@ section {
     background-color: orangered;
 }
 
+table .download-cv {
+    text-decoration: none;
+    color: #111727;
+}
+
+table .download-cv:hover {
+    text-decoration: none;
+    color: orangered;
+}
+
 .table-download{
     margin-top: 1px;
     margin-left: 20px;
